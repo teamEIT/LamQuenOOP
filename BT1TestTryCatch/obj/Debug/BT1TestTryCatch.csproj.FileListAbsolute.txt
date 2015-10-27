@@ -1,6 +1,0 @@
-D:\Quoc\Master\OOP\LamQuenOOP\BT1TestTryCatch\bin\Debug\BT1TestTryCatch.exe.config
-D:\Quoc\Master\OOP\LamQuenOOP\BT1TestTryCatch\bin\Debug\BT1TestTryCatch.exe
-D:\Quoc\Master\OOP\LamQuenOOP\BT1TestTryCatch\bin\Debug\BT1TestTryCatch.pdb
-D:\Quoc\Master\OOP\LamQuenOOP\BT1TestTryCatch\obj\Debug\BT1TestTryCatch.csprojResolveAssemblyReference.cache
-D:\Quoc\Master\OOP\LamQuenOOP\BT1TestTryCatch\obj\Debug\BT1TestTryCatch.exe
-D:\Quoc\Master\OOP\LamQuenOOP\BT1TestTryCatch\obj\Debug\BT1TestTryCatch.pdb
