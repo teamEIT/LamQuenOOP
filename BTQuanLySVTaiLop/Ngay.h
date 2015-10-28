@@ -16,5 +16,11 @@ public:
 	// Ham huy
 	~Ngay(void);
 	void Xuat();
+	int Getter_Ngay();
+	void Setter_Ngay(int);
+	int Getter_Thang();
+	void Setter_Thang(int);
+	int Getter_Nam();
+	void Setter_Nam(int);
 };
 

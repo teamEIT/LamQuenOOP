@@ -34,3 +34,33 @@ void Ngay::Xuat()
 {
 	cout << "\nNam " << nam << " thang " << thang << " ngay " << ngay << endl;
 }
+
+int Ngay::Getter_Ngay()
+{
+	return ngay;
+}
+
+void Ngay::Setter_Ngay(int day)
+{
+	ngay = day;
+}
+
+int Ngay::Getter_Thang()
+{
+	return thang;
+}
+
+void Ngay::Setter_Thang(int month)
+{
+	thang = month;
+}
+
+int Ngay::Getter_Nam()
+{
+	return nam;
+}
+
+void Ngay::Setter_Nam(int year)
+{
+	nam = year;
+}
