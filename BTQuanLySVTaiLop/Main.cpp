@@ -15,7 +15,7 @@ int main()
 	sv5.Xuat();
 	SinhVien sv6("0913084", "Le Hoang Anh Quoc", 1990, 4, 14, 9, 9.5);
 	sv6.Xuat();
-	SinhVien sv7(sv2);
+	SinhVien sv7(sv5);
 	sv7.Xuat();
 	system("pause");
 	return 0;

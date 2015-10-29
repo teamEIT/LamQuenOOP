@@ -1,0 +1,10 @@
+D:\Quoc\Master\OOP\LamQuenOOP\BT1FormCS\bin\Debug\BT1FormCS.exe.config
+D:\Quoc\Master\OOP\LamQuenOOP\BT1FormCS\bin\Debug\BT1FormCS.exe
+D:\Quoc\Master\OOP\LamQuenOOP\BT1FormCS\bin\Debug\BT1FormCS.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\BT1FormCS\obj\Debug\BT1FormCS.csprojResolveAssemblyReference.cache
+D:\Quoc\Master\OOP\LamQuenOOP\BT1FormCS\obj\Debug\BT1FormCS.Form1.resources
+D:\Quoc\Master\OOP\LamQuenOOP\BT1FormCS\obj\Debug\BT1FormCS.Properties.Resources.resources
+D:\Quoc\Master\OOP\LamQuenOOP\BT1FormCS\obj\Debug\BT1FormCS.csproj.GenerateResource.Cache
+D:\Quoc\Master\OOP\LamQuenOOP\BT1FormCS\obj\Debug\BT1FormCS.exe
+D:\Quoc\Master\OOP\LamQuenOOP\BT1FormCS\obj\Debug\BT1FormCS.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\BT1FormCS\obj\Debug\BT1FormCS.Form2.resources

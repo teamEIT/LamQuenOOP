@@ -23,6 +23,8 @@ public:
 	SinhVien(string, string, Ngay, float, float);
 	// Khoi tao truyen 7 tham so : mssv, ho ten, nam, thang, ngay, diem lt, diem th
 	SinhVien(string, string, int, int, int, float, float);
+	// Khoi tao sao chep
+	SinhVien(const SinhVien &);
 	// Xuat
 	void Xuat();
 	// Ham huy

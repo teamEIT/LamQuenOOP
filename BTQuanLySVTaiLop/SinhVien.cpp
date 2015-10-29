@@ -42,7 +42,7 @@ SinhVien::SinhVien(string id, string name, float dlt, float dth)
 	dTH = dth;
 	dLT = dlt;
 }
-// Khoi tao truyen 54 tham so : mssv, ho ten, ngay sinh, diem lt, diem th
+// Khoi tao truyen 5 tham so : mssv, ho ten, ngay sinh, diem lt, diem th
 SinhVien::SinhVien(string id, string name, Ngay birthDay, float dlt, float dth)
 {
 	maSoSV = id;
@@ -64,6 +64,15 @@ SinhVien::SinhVien(string id, string name, int year, int month, int day, float d
 	ngaySinh.Setter_Ngay(day);
 	dTH = dlt;
 	dLT = dth;
+}
+// Khoi tao sao chep
+SinhVien::SinhVien(const SinhVien &sv)
+{
+	maSoSV = sv.maSoSV;
+	hoTen = sv.hoTen;
+	ngaySinh = sv.ngaySinh;
+	dLT = sv.dLT;
+	dTH = sv.dTH;
 }
 
 // Xuat

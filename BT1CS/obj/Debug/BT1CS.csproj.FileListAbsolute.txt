@@ -1,0 +1,6 @@
+D:\Quoc\Master\OOP\LamQuenOOP\BT1CS\bin\Debug\BT1CS.exe.config
+D:\Quoc\Master\OOP\LamQuenOOP\BT1CS\bin\Debug\BT1CS.exe
+D:\Quoc\Master\OOP\LamQuenOOP\BT1CS\bin\Debug\BT1CS.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\BT1CS\obj\Debug\BT1CS.csprojResolveAssemblyReference.cache
+D:\Quoc\Master\OOP\LamQuenOOP\BT1CS\obj\Debug\BT1CS.exe
+D:\Quoc\Master\OOP\LamQuenOOP\BT1CS\obj\Debug\BT1CS.pdb
