@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1CS", "BT1CS\BT1CS.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BT1FormCS", "BT1FormCS\BT1FormCS.csproj", "{E5BF10B3-07C3-473F-89DC-9961F9A73E08}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OperatorOverloading", "OperatorOverloading\OperatorOverloading.vcxproj", "{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,6 +187,20 @@ Global
 		{E5BF10B3-07C3-473F-89DC-9961F9A73E08}.Release|Win32.Build.0 = Release|Any CPU
 		{E5BF10B3-07C3-473F-89DC-9961F9A73E08}.Release|x64.ActiveCfg = Release|Any CPU
 		{E5BF10B3-07C3-473F-89DC-9961F9A73E08}.Release|x64.Build.0 = Release|Any CPU
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Debug|Win32.Build.0 = Debug|Win32
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Debug|x64.ActiveCfg = Debug|x64
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Debug|x64.Build.0 = Debug|x64
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Release|Any CPU.ActiveCfg = Release|Win32
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Release|Win32.ActiveCfg = Release|Win32
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Release|Win32.Build.0 = Release|Win32
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Release|x64.ActiveCfg = Release|x64
+		{2203CAFC-7E01-4830-AE1F-B4A2A2EC9ED1}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
