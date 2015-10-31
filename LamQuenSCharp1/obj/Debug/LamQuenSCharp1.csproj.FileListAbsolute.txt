@@ -1,0 +1,6 @@
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenSCharp1\bin\Debug\LamQuenSCharp1.exe.config
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenSCharp1\bin\Debug\LamQuenSCharp1.exe
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenSCharp1\bin\Debug\LamQuenSCharp1.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenSCharp1\obj\Debug\LamQuenSCharp1.csprojResolveAssemblyReference.cache
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenSCharp1\obj\Debug\LamQuenSCharp1.exe
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenSCharp1\obj\Debug\LamQuenSCharp1.pdb

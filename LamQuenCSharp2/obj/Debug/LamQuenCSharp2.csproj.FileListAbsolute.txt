@@ -1,0 +1,6 @@
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp2\bin\Debug\LamQuenCSharp2.exe.config
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp2\bin\Debug\LamQuenCSharp2.exe
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp2\bin\Debug\LamQuenCSharp2.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp2\obj\Debug\LamQuenCSharp2.csprojResolveAssemblyReference.cache
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp2\obj\Debug\LamQuenCSharp2.exe
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp2\obj\Debug\LamQuenCSharp2.pdb

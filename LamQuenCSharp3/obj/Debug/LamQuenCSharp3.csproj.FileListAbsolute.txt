@@ -1,0 +1,6 @@
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp3\bin\Debug\LamQuenCSharp3.exe.config
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp3\bin\Debug\LamQuenCSharp3.exe
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp3\bin\Debug\LamQuenCSharp3.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp3\obj\Debug\LamQuenCSharp3.exe
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp3\obj\Debug\LamQuenCSharp3.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\LamQuenCSharp3\obj\Debug\LamQuenCSharp3.csprojResolveAssemblyReference.cache

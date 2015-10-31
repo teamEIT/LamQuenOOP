@@ -1,17 +1,13 @@
-﻿Build started 10/30/2015 3:18:21 PM.
+﻿Build started 10/31/2015 8:32:47 PM.
      1>Project "D:\Quoc\Master\OOP\LamQuenOOP\OperatorOverloading\OperatorOverloading.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp PhanSo.cpp
-         PhanSo.cpp
-     1>d:\quoc\master\oop\lamquenoop\operatoroverloading\phanso.cpp(29): warning C4129: 'N': unrecognized character escape sequence
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
          Main.cpp
-         Generating Code...
-       Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Quoc\Master\OOP\LamQuenOOP\Debug\OperatorOverloading.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Quoc\Master\OOP\LamQuenOOP\Debug\OperatorOverloading.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Quoc\Master\OOP\LamQuenOOP\Debug\OperatorOverloading.lib" /MACHINE:X86 Debug\Main.obj
-         Debug\PhanSo.obj
-         OperatorOverloading.vcxproj -> D:\Quoc\Master\OOP\LamQuenOOP\Debug\OperatorOverloading.exe
-     1>Done Building Project "D:\Quoc\Master\OOP\LamQuenOOP\OperatorOverloading\OperatorOverloading.vcxproj" (Build target(s)).
+     1>d:\quoc\master\oop\lamquenoop\operatoroverloading\main.cpp(7): error C2679: binary '+': no operator found which takes a right-hand operand of type 'int' (or there is no acceptable conversion)
+         d:\quoc\master\oop\lamquenoop\operatoroverloading\phanso.h(23): note: could be 'PhanSo PhanSo::operator +(PhanSo)'
+         d:\quoc\master\oop\lamquenoop\operatoroverloading\main.cpp(7): note: while trying to match the argument list '(PhanSo, int)'
+     1>Done Building Project "D:\Quoc\Master\OOP\LamQuenOOP\OperatorOverloading\OperatorOverloading.vcxproj" (Build target(s)) -- FAILED.
 
-Build succeeded.
+Build FAILED.
 
-Time Elapsed 00:00:03.68
+Time Elapsed 00:00:03.38
