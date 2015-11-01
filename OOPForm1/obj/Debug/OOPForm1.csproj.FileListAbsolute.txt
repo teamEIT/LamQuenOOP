@@ -1,0 +1,9 @@
+D:\Quoc\Master\OOP\LamQuenOOP\OOPForm1\bin\Debug\OOPForm1.exe.config
+D:\Quoc\Master\OOP\LamQuenOOP\OOPForm1\bin\Debug\OOPForm1.exe
+D:\Quoc\Master\OOP\LamQuenOOP\OOPForm1\bin\Debug\OOPForm1.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\OOPForm1\obj\Debug\OOPForm1.csprojResolveAssemblyReference.cache
+D:\Quoc\Master\OOP\LamQuenOOP\OOPForm1\obj\Debug\OOPForm1.Form1.resources
+D:\Quoc\Master\OOP\LamQuenOOP\OOPForm1\obj\Debug\OOPForm1.Properties.Resources.resources
+D:\Quoc\Master\OOP\LamQuenOOP\OOPForm1\obj\Debug\OOPForm1.csproj.GenerateResource.Cache
+D:\Quoc\Master\OOP\LamQuenOOP\OOPForm1\obj\Debug\OOPForm1.exe
+D:\Quoc\Master\OOP\LamQuenOOP\OOPForm1\obj\Debug\OOPForm1.pdb
