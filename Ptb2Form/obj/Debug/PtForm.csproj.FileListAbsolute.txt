@@ -1,0 +1,9 @@
+D:\Quoc\Master\OOP\LamQuenOOP\Ptb2Form\bin\Debug\Ptb2Form.exe.config
+D:\Quoc\Master\OOP\LamQuenOOP\Ptb2Form\bin\Debug\Ptb2Form.exe
+D:\Quoc\Master\OOP\LamQuenOOP\Ptb2Form\bin\Debug\Ptb2Form.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\Ptb2Form\obj\Debug\PtForm.csprojResolveAssemblyReference.cache
+D:\Quoc\Master\OOP\LamQuenOOP\Ptb2Form\obj\Debug\Ptb2Form.Properties.Resources.resources
+D:\Quoc\Master\OOP\LamQuenOOP\Ptb2Form\obj\Debug\PtForm.csproj.GenerateResource.Cache
+D:\Quoc\Master\OOP\LamQuenOOP\Ptb2Form\obj\Debug\Ptb2Form.exe
+D:\Quoc\Master\OOP\LamQuenOOP\Ptb2Form\obj\Debug\Ptb2Form.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\Ptb2Form\obj\Debug\PtForm.FormEquation.resources

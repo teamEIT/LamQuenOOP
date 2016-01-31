@@ -1,0 +1,8 @@
+D:\Quoc\Master\OOP\LamQuenOOP\TextboxTextViewForm\bin\Debug\TextboxTextViewForm.exe.config
+D:\Quoc\Master\OOP\LamQuenOOP\TextboxTextViewForm\bin\Debug\TextboxTextViewForm.exe
+D:\Quoc\Master\OOP\LamQuenOOP\TextboxTextViewForm\bin\Debug\TextboxTextViewForm.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\TextboxTextViewForm\obj\Debug\TextboxTextViewForm.Properties.Resources.resources
+D:\Quoc\Master\OOP\LamQuenOOP\TextboxTextViewForm\obj\Debug\TextboxTextViewForm.csproj.GenerateResource.Cache
+D:\Quoc\Master\OOP\LamQuenOOP\TextboxTextViewForm\obj\Debug\TextboxTextViewForm.exe
+D:\Quoc\Master\OOP\LamQuenOOP\TextboxTextViewForm\obj\Debug\TextboxTextViewForm.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\TextboxTextViewForm\obj\Debug\TextboxTextViewForm.FormInformation.resources

@@ -1,0 +1,9 @@
+D:\Quoc\Master\OOP\LamQuenOOP\LoginForm\bin\Debug\LoginForm.exe.config
+D:\Quoc\Master\OOP\LamQuenOOP\LoginForm\bin\Debug\LoginForm.exe
+D:\Quoc\Master\OOP\LamQuenOOP\LoginForm\bin\Debug\LoginForm.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+D:\Quoc\Master\OOP\LamQuenOOP\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+D:\Quoc\Master\OOP\LamQuenOOP\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+D:\Quoc\Master\OOP\LamQuenOOP\LoginForm\obj\Debug\LoginForm.exe
+D:\Quoc\Master\OOP\LamQuenOOP\LoginForm\obj\Debug\LoginForm.pdb
+D:\Quoc\Master\OOP\LamQuenOOP\LoginForm\obj\Debug\LoginForm.FormLogin.resources
